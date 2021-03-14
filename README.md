@@ -28,14 +28,14 @@ Please only upload original code and documentation! I don't want to see whole li
 You are going to develop a graphics program that clearly demonstrates your mastery of transformations. I don't want to put too many fine details on the requirements, but I do want to specify the minimum requirements.
 
 You need to clearly identify and demonstrate transforms that cover the following:
-* Translation
-* Scale
-* Rotation
-* Reflection
-* Shearing
-* Inversion
-* Projection
-* Simple combinations of the above (more than just Translation + something else)
+* Translation --
+* Scale --
+* Rotation --
+* Reflection --
+* Shearing --
+* Inversion --
+* Projection -- of 4
+* Simple combinations of the above (more than just Translation + something else) --rotation, inversion, scale
 
 (I would suggest tackling them in that order, Projection will be hard to capture until we get into perspective)
 
